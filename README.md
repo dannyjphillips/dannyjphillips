@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on connecting the Omneo platform to more parts of the retail tech ecosystem
 
-- 📫 How to reach me danny@arkade.com.au or +61412258334
+- 📫 How to reach me danny@omneo.io or +61412258334
 
 <!---
 dannyjphillips/dannyjphillips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
